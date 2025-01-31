@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harsh Maharshi</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
-<h3 align="center">Procient Full Stack Web Developer skilled in the MERN
+<h1 align="center">Hi 👋, I'm Mahesh Kumar Yadav</h1>
+<h3 align="center">A passionate Backend Node.js developer from India</h3>
+<h3 align="center">Procient Node.js Backend Developer skilled in Node.js, Express ,
 stack, known for leveraging Generative AI to innovate within
 tight timelines. Demonstrates expertise in JavaScript,
 React.js, Node.js, and Express.js, with a strong ability to craft
@@ -12,10 +12,10 @@ seamless, scalable web applications. Excels in problemsolving and collaborative 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/harsh-maharshi-756b912a5/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahesh-kumar-yadav-496b84244/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://harsh252-dot-github-io.netlify.app/" target="_blank">
+  <a href="https://maheshyadavportfolio.netlify.app/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
